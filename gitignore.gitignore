@@ -1,0 +1,19 @@
+# 1. Archivos ejecutables generados por el compilador
+*.exe
+*.out
+*.app
+
+# 2. Directorios de compilación o generación de archivos intermedios
+output/
+bin/
+obj/
+build/
+
+# 3. Archivos de registro, errores o volcados de memoria
+*.log
+*.err
+*.dmp
+
+
+.vscode/
+.idea/
